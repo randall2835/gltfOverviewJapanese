@@ -3050,8 +3050,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5219183"
-     inkscape:cx="861.91938"
-     inkscape:cy="275.16121"
+     inkscape:cx="1891.0398"
+     inkscape:cy="-92.795467"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -6549,17 +6549,12 @@
          x="1884.26"
          y="999.95459"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan17063">渡すことによって、</tspan><tspan
+         id="tspan17065">渡すことで、このバッファを</tspan><tspan
          sodipodi:role="line"
          x="1884.26"
          y="1015.5796"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan17065">このバッファを頂点属性情報</tspan><tspan
-         sodipodi:role="line"
-         x="1884.26"
-         y="1031.2046"
-         style="font-size:12.5px;line-height:1.25"
-         id="tspan17067">として定義できる。 </tspan></text>
+         id="tspan17067">頂点属性情報として定義できる。 </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#606060;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -8217,22 +8212,17 @@
          x="354.23709"
          y="1087.5914"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan7769">glTFアセットには、頂点スキニングの実行に必要な情報が</tspan><tspan
+         id="tspan3029">glTFアセットには、頂点スキニングに必要な情報を</tspan><tspan
          sodipodi:role="line"
          x="354.23709"
          y="1104.1169"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan15880">含まれている場合がある。</tspan><tspan
+         id="tspan15882">記述できる。頂点のスキニングを使用すると、</tspan><tspan
          sodipodi:role="line"
          x="354.23709"
          y="1119.7419"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan15882">頂点のスキニングを使用すると、メッシュの頂点が</tspan><tspan
-         sodipodi:role="line"
-         x="354.23709"
-         y="1135.3669"
-         style="font-size:12.5px;line-height:1.25"
-         id="tspan15884">姿勢のボーンの現在のポーズに基づいて影響を受ける。 </tspan></text>
+         id="tspan15884">メッシュの頂点が、現在の姿勢に基づいて影響を受ける。 </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -12618,7 +12608,7 @@
          x="1396.1954"
          y="1089.2086"
          id="tspan9206"
-         style="font-size:12.5px;line-height:1.25">glTFアセットには&quot;animation&quot;の格納が可能だ。&quot;animation&quot;には、ノードのローカル変換を定義するノードの</tspan><tspan
+         style="font-size:12.5px;line-height:1.25">glTFアセットには animation の格納が可能だ。&quot;animation&quot;には、ノードのローカル変換を定義するノードの</tspan><tspan
          sodipodi:role="line"
          x="1396.1954"
          y="1105.7341"
@@ -17302,12 +17292,12 @@
          x="11.326416"
          y="267.5"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan11999-6">glTFと呼ばれるフォーマットは、ネットワークを介した</tspan><tspan
+         id="tspan11999-6">glTF と呼ばれるフォーマットは、ネットワークを介した</tspan><tspan
          sodipodi:role="line"
          x="11.326416"
          y="284.02557"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan10299">３Dコンテンツの効率的な転送のためにKhronos Group</tspan><tspan
+         id="tspan10299">３Dコンテンツの効率的な転送のために Khronos Group</tspan><tspan
          sodipodi:role="line"
          x="11.326416"
          y="300.55112"
@@ -17338,7 +17328,7 @@
          x="384.68091"
          y="991.52679"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan7068-5-1">glTF と glTF ロゴは  </tspan><tspan
+         id="tspan7068-5-1">glTF と glTFロゴは  </tspan><tspan
          sodipodi:role="line"
          x="384.68091"
          y="1007.1518"
@@ -17726,12 +17716,12 @@
          x="11.400757"
          y="322.35724"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan11999-5-3">glTFの基本部分は、３Dモデルを含むシーンの構造や構成</tspan><tspan
+         id="tspan11999-5-3">glTF の基本部分は、３D モデルを含むシーンの構造や構成</tspan><tspan
          sodipodi:role="line"
          x="11.400757"
          y="338.88281"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan10310">を記述するJSONファイルである。</tspan><tspan
+         id="tspan10310">を記述する JSON ファイルである。</tspan><tspan
          sodipodi:role="line"
          x="11.400757"
          y="355.40836"
@@ -18499,7 +18489,7 @@
          x="703.40771"
          y="170.54419"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan9796-7-7">glTF JSONには&quot;scenes&quot;（既定&quot;scene&quot;を含む）</tspan><tspan
+         id="tspan9796-7-7">glTF JSON には&quot;scenes&quot;（既定&quot;scene&quot;を含む）</tspan><tspan
          sodipodi:role="line"
          x="703.40771"
          y="187.06975"
@@ -18630,7 +18620,7 @@
          x="9.9223633"
          y="793.91913"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan44464">また，単一のバイナリglTFファイルには、</tspan><tspan
+         id="tspan44464">また，単一のバイナリ glTF ファイルには、</tspan><tspan
          sodipodi:role="line"
          x="9.9223633"
          y="810.4447"
@@ -18640,7 +18630,7 @@
          x="9.9223633"
          y="826.0697"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan10381">その際には、string型で記述されたJSONの後方に、</tspan><tspan
+         id="tspan10381">その際には、string 型で記述された JSON の後方に、</tspan><tspan
          sodipodi:role="line"
          x="9.9223633"
          y="842.59521"
@@ -19415,17 +19405,17 @@
          x="358.63525"
          y="502.15918"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan3494-6">glTFアセットでの&quot;image&quot;と&quot;buffer&quot;においては、</tspan><tspan
+         id="tspan3494-6">glTF アセット概念図の下側にある image と buffer に</tspan><tspan
          sodipodi:role="line"
          x="358.63525"
          y="518.68475"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan17340">3Dコンテンツのレンダリングに必要な情報を含む</tspan><tspan
+         id="tspan17342">注目したい。image と buffer においては3Dコンテンツの</tspan><tspan
          sodipodi:role="line"
          x="358.63525"
          y="535.21033"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan17342">外部ファイルの参照が可能だ。</tspan></text>
+         id="tspan3055">レンダリングに必要な外部ファイルを参照できる。</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -19439,22 +19429,22 @@
          x="357.90039"
          y="716.23059"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan3494-0-7">データはURIを用いて参照されるが、</tspan><tspan
+         id="tspan17400">データは普通 URI を用いて参照されるが、情報 URI を</tspan><tspan
          sodipodi:role="line"
          x="357.90039"
          y="732.75616"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan17400">情報URIを使用してJSONに直接埋め込むこともできる。 </tspan><tspan
+         id="tspan3059">使用し JSON に直接埋め込むこともできる。 </tspan><tspan
          sodipodi:role="line"
          x="357.90039"
          y="749.28174"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan17402">情報URIはMIMEタイプを定義し、base64で</tspan><tspan
+         id="tspan17402">情報 URI は下図のように MIME タイプを定義し、</tspan><tspan
          sodipodi:role="line"
          x="357.90039"
          y="765.80725"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan17404">エンコードされた文字列として格納される。</tspan></text>
+         id="tspan17404">base64 でエンコードされた文字列として格納される。</tspan></text>
     <rect
        rx="4.5185547"
        style="fill:#e6e6e6;fill-opacity:1;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
@@ -19629,7 +19619,7 @@
          x="516.05518"
          y="562.75952"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan17362">&quot;buffers&quot;では、</tspan><tspan
+         id="tspan17362">buffers では、</tspan><tspan
          sodipodi:role="line"
          x="516.05518"
          y="579.2851"
@@ -19649,7 +19639,7 @@
          x="516.05518"
          y="627.06067"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan17366">を参照できる。</tspan></text>
+         id="tspan17366">を参照しよう。</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -19663,7 +19653,7 @@
          x="517.50073"
          y="646.32251"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan11278">&quot;images&quot;では、モデルの</tspan><tspan
+         id="tspan11278"> images では、モデルの</tspan><tspan
          sodipodi:role="line"
          x="517.50073"
          y="662.84808"
@@ -19678,7 +19668,7 @@
          x="517.50073"
          y="694.99866"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="tspan3066">を参照できる。</tspan></text>
+         id="tspan3066">を参照しよう。</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -19692,12 +19682,12 @@
          x="356.90784"
          y="170.5442"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan17325">glTFアセットにおけるトップレベルの要素間が、</tspan><tspan
+         id="tspan17325">glTF アセットにおけるトップレベルの要素間が、</tspan><tspan
          sodipodi:role="line"
          x="356.90784"
          y="187.06976"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan17329">どのように関係するか表した概念図を以下に示す。</tspan></text>
+         id="tspan17329">どのように関係するか表した概念図を見てみよう。</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
